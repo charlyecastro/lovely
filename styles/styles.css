@@ -1,0 +1,92 @@
+#prev-btn {
+  position: absolute;
+  left: 0;
+}
+
+#next-btn {
+  position: absolute;
+  right: 0;
+}
+
+.neo {
+  margin: 1.5rem;
+  background-color: #FBD5D5;
+  -webkit-box-shadow: -5px -5px 11px rgba(255, 255, 255, 0.5), 5px 5px 11px rgba(217, 178, 178, 0.5);
+          box-shadow: -5px -5px 11px rgba(255, 255, 255, 0.5), 5px 5px 11px rgba(217, 178, 178, 0.5);
+  border-radius: 50px;
+  border: none;
+  padding: 2rem;
+  font-size: 1.5rem;
+  color: white;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.neo:hover {
+  -webkit-box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.4), 10px 10px 15px rgba(217, 178, 178, 0.8);
+          box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.4), 10px 10px 15px rgba(217, 178, 178, 0.8);
+}
+
+.neo:focus {
+  -webkit-box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.4), 10px 10px 15px rgba(217, 178, 178, 0.8);
+          box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.4), 10px 10px 15px rgba(217, 178, 178, 0.8);
+}
+
+.image-wrapper {
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.image-wrapper img {
+  border-radius: 10px !important;
+  height: 400px;
+  width: 250px;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+}
+
+.image-wrapper img:hover {
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+}
+
+img:hover {
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+}
+
+.btn-container {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+body {
+  background-color: #FBD5D5;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  overflow-y: hidden;
+}
+/*# sourceMappingURL=styles.css.map */
