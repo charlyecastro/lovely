@@ -25,7 +25,7 @@ let personData = [{
 },
 {
     fullName: "Cece D",
-    img: "Brown&Orange.jpg",
+    img: "brown&orange.jpg",
     location: "Lake Forest, Wa",
 },]
 
