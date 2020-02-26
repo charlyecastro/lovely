@@ -1,5 +1,5 @@
-# webDesignPractice
-Practicing design skills for web development
+# lovely
+a site to help you find lovely people
 
 
 ## Tools
@@ -12,7 +12,7 @@ Practicing design skills for web development
 <a href="https://fontawesome.com/icons?d=gallery" rel="logo"> <img alt = "Font Awesome logo" src ="./logos/fontawesome-logo.png" width="100" height="50"/></a>
 
 ## WHAT
-This is a gallery that lets you click through portraits. This site uses soft ui and animation transitions.
+This is a lightweight dating site. The focus for this project is on soft ui and animation transitions. There is not much functionoality, but I will work on the in the future.
 
 ## WHY
 - Wanted to build a UI based on [Neomorphism (Soft UI)](https://uxplanet.org/neumorphism-in-user-interface-tutorial-c353698ac5c0) design trend
