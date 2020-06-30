@@ -1,6 +1,8 @@
 # lovely
 a site to help you find lovely people
 
+<img src = "./assets/lovely-home-page.png" alt = "Screenshot of lovely homepage">
+
 
 ## Tools
 <a href="https://greensock.com/gsap/" rel="logo"><img alt = "GSAP logo" src ="./logos/gsap-logo.png" width="100" height="50"/></a>
